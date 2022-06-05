@@ -1,4 +1,5 @@
-# https://www.youtube.com/watch?v=mrn_Jqh_Zyo
+# django_сайт_для_конвертации_валют_(v1)
+https://www.youtube.com/watch?v=mrn_Jqh_Zyo
 
 1.
 -- в командной строке заходим в нужную папку, куда будем копировать проект и выполняем
